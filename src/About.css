@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Benne&display=swap");
+
+.about-page {
+    background-image: url("images/aboutpage.gif");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    font-family: "Benne", serif;
+  }
+
+.about-body {
+    text-align: center;
+    background: transparent;
+    color: whitesmoke;
+    border: none;
+    width: 320px;
+    margin: auto;
+    position: relative;
+    top: 375px;
+  }
+
+.about-text {
+  font-size: 14px;
+  padding: 5px;
+}

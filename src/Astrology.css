@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Benne&display=swap");
+
+.astrology-page {
+    background-image: url("images/2.gif");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    padding: 10px;
+    color: whitesmoke;
+    font-family: "Benne", serif;
+    text-align: center;
+}
+
+.selectsign .sign {
+    font-family: "Benne", serif;
+    padding: 5px;
+    margin: 2px;
+    background-color: black;
+    color: whitesmoke;
+    border: 1px solid white;
+}
+
+#restart {
+    font-family: "Benne", serif;
+    padding: 7px;
+    margin: 3px;
+    background-color: black;
+    color: whitesmoke;
+    border: 1px solid white;
+}

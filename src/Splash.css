@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Benne&display=swap");
+
+.splash-page {
+  background-image: url("images/openingpage.gif");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-width: 100vw;
+  min-height: 100vh;
+  margin: 0;
+  font-family: "Benne", serif;
+}
+
+.splash-body {
+  text-align: left;
+  color: whitesmoke;
+  font-size: 14px;
+  padding: 10px;
+  position: relative;
+  top: 400px;
+  width: 320px;
+}
+
+.splash-text {
+  padding-top: 10px;
+}
+
+#splash-button {
+  font-family: "Benne", serif;
+  background-color: black;
+  color: whitesmoke;
+  padding: 7px;
+  position: relative;
+  top: 400px;
+  margin-left: 120px;
+}
